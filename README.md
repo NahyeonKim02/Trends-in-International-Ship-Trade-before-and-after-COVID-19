@@ -37,7 +37,6 @@
 
 ### 💻 사용 Tool
 - Python (Jupyter Notebook)
-- Excel
 
 ---
 
@@ -45,8 +44,6 @@
 - NumPy
 - Pandas
 - Matplotlib
-- Scikit-learn
-- Imbalanced-learn
 
 ---
 
